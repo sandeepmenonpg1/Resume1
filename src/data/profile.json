@@ -1,0 +1,269 @@
+{
+    "Name": "Sandeep Menon P G",
+    "Position": "Senior Software Developer",
+    "Description": "A passionate developer with a drive to keep learning and to bring the creative best solution on table with a design thinking approach of problem solving",
+    "Address": "Chennai, India",
+    "Company": "Wipro Technologies",
+    "School": "Sri Sairam engineering College,Anna University",
+    "SocialMedias": [
+      "https://www.linkedin.com/in/sandeep-menon-p-g-58888711a"
+    ],
+    "experiences": [
+      {
+        "companyName": "Wipro Technologies",
+        "logo": "https://www.wipro.com/content/dam/nexus/images/header/wipro-logo.png",
+        "url": "https://www.wipro.com/",
+        "roles": [
+          {
+            "title": "Senior Software developer",
+            "description0": "Task/Responsibilities",
+            "description":  "Involved in application testing ranging from cipher deprecation to DR test to ensure the application security and compliance with organization standards.\n",
+            "description2": "Developed and automated application modules &Reports as per client requirements.\n",
+            "description3": "Improved application performance through gap analysis that led to process Optimization and ensured a 99.99% uptime of the application.\n",
+            "description4": "Reduced turnaround time to minimum of 2 weeks by aligning IT with ITIL Process and ensured timely delivery of client deliverable and ensured SLA/SLO are met.\n",
+            "description5": "Led automation and transformation initiative as an Automation Lead. ",
+            "startDate": "2017-10-16",
+            "currentJob": true,
+            "location": "Chennai, India"
+          }
+        ]
+      }
+    ],
+    "Skills": [
+      {
+        "Area": "Programming Language",
+        "SkillSet": [
+          {
+            "Name": "Java",
+            "Hot": true
+          },
+          {
+            "Name": "Python",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Scripting Language",
+        "SkillSet": [
+          {
+            "Name": "Unix Shell",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Infra automation",
+        "SkillSet": [
+          {
+            "Name": "Ansible",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Web-Based Application Development",
+        "SkillSet": [
+          {
+            "Name": "JavaScript (ES5, ES6)",
+            "Hot": true
+          },
+          {
+            "Name": "HTML5",
+            "Hot": true
+          },
+          {
+            "Name": "CSS (SCSS/SASS)",
+            "Hot": true
+          },
+          {
+            "Name": "React",
+            "Hot": true
+          },
+          {
+            "Name": "NPM",
+            "Hot": false
+          },
+          {
+            "Name": "WebPack",
+            "Hot": false
+          },
+          {
+            "Name": "UX/UI Design",
+            "Hot": false
+          },
+          {
+            "Name": "Django",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Database",
+        "SkillSet": [
+          {
+            "Name": "Microsoft SQL",
+            "Hot": false
+          },
+          {
+            "Name": "Oracle SQL",
+            "Hot": false
+          },
+          {
+            "Name": "PL SQL",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Ticketing",
+        "SkillSet": [
+          {
+            "Name": "Service Now",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Monitoring tools",
+        "SkillSet": [
+          {
+            "Name": "Splunk",
+            "Hot": false
+          },
+          {
+            "Name": "Geneos",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Soft Skills",
+        "SkillSet": [
+          {
+            "Name": "Liaising and Coordination",
+            "Hot": false
+          },
+          {
+            "Name": "Project Management",
+            "Hot": false
+          },
+          {
+            "Name": "Client Relationship Management",
+            "Hot": false
+          },
+          {
+            "Name": "Team Management",
+            "Hot": false
+          }
+          
+        ]
+      },
+      {
+        "Area": "Schedulers",
+        "SkillSet": [
+          {
+            "Name": "Autosys",
+            "Hot": false
+          },
+          {
+            "Name": "Cron",
+            "Hot": false
+          },
+          {
+            "Name": "quartz",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Platforms",
+        "SkillSet": [
+          {
+            "Name": "Windows",
+            "Hot": false
+          },
+          {
+            "Name": "Unix/Linux",
+            "Hot": false
+          },
+          {
+            "Name": "IAAS",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Software Development Tools and Concepts",
+        "SkillSet": [
+          {
+            "Name": "Git",
+            "Hot": true
+          },
+          {
+            "Name": "RTC",
+            "Hot": false
+          },
+          {
+            "Name": "Jenkins",
+            "Hot": false
+          },
+          {
+            "Name": "Agile",
+            "Hot": true
+          },
+          {
+            "Name": "Devops",
+            "Hot": true
+          }
+        ]
+      }
+    ],
+    "Education": [
+      {
+        "SchoolName": "Sri Sairam Engineering College, Anna University",
+        "Date": "2013 - 2017",
+        "Degree": "Bachelor of Engineering - Electe=rical and Electronics Engineering",
+        "Location": "Chennai, Tamil Nadu",
+        "Description": "Approved by AICTE, New Delhi Affiliated to Anna University, Chennai An ISO 9001:2015 Certified Institution & Accredited by NBA - All UG Programs NAAC Accredited 'A+' Grade",
+        "SchoolImage": "https://upload.wikimedia.org/wikipedia/en/6/61/Sri_Sai_Ram_Engineering_College_logo.png",
+        "SchoolLink": "https://sairamgroup.in/",
+        "Awards": [
+          {
+            "Name": "Pinnacle",
+            "Date": "Jan 2018",
+            "Region": "Chennai, Tamil Nadu",
+            "Organization": "Wipro Technologies",
+            "Description": "Awarded for outstanding contribution towards transformation activities and BAU",
+            "Link": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+          },
+          {
+            "Name": "Round of applause",
+            "Date": "Mar 2018",
+            "Region": "Chennai, Tamil Nadu",
+            "Organization": "Wipro Technologies",
+            "Description": "Award Received for learning agility towards completion of training on various technologies and achieving pi skill",
+            "Link": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+          }
+          ,
+          {
+            "Name": "Extraordinary contribution",
+            "Date": "Jun 2019",
+            "Region": "Chennai, Tamil Nadu",
+            "Organization": "Wipro Technologies",
+            "Description": "Award Received Towards ensuring continuity of business.",
+            "Link": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+          }
+          ,
+          {
+            "Name": "Centre of Excellence",
+            "Date": "May 2020",
+            "Region": "Chennai, Tamil Nadu",
+            "Organization": "Wipro Technologies",
+            "Description": "Awarded for overall contribution and taking lead in transformation initiative",
+            "Link": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+          }
+        ]
+      }
+    ]
+  }

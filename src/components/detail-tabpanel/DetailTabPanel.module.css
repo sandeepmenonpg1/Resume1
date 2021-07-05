@@ -1,0 +1,23 @@
+.tabPanelRoot {
+    margin-left: 500px;
+    background-color: white;
+    color: white;
+}
+
+.tabPanelText {
+    outline: none !important;
+    color: white;
+    
+}
+
+/* .react-swipeable-view-container {
+    max-height: calc(100vh + 50px);
+} */
+
+.tabPanelText span {
+    font-weight: bold;
+    color: white;
+    background-color: white;
+    /* font-size: 18px;
+    padding: 8px; */
+}
