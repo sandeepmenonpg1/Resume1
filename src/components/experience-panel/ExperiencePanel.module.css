@@ -12,17 +12,22 @@
     color: black;
     height: 100%;
     font-weight: bold;
+    margin: auto;
     background-color: white;
  }
 .jobDescription {
-    text-indent: 10px;
     word-spacing: 5px;
     white-space: wrap;
-    justify-content: center;
-    align-items: center;
+    text-align: justify;
+    align-items: left;
+    justify-content: left;
     color: black;
     height: 100%;
     background-color: white;
+    font-stretch: condensed;
+    margin: auto;
+    margin-left: 0%;
+    margin-right: 9%;
  }
 a:hover {
     text-decoration: none;
