@@ -16,7 +16,7 @@ class DetailTabPanel extends Component {
         this.handleChangeIndex = this.handleChangeIndex.bind(this);
         this.handleChange = this.handleChange.bind(this);
         this.state = {
-            value: 1,
+            value: 0,
         };
     }
 
