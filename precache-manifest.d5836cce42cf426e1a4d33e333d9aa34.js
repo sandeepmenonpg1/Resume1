@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "835cbfa5beb43eeeb7f8",
-    "url": "/sandeep-resume/static/css/main.b2e0ae68.chunk.css"
+    "revision": "1139403c9d6ae498af4c",
+    "url": "/sandeep-resume/static/css/main.7a71b93a.chunk.css"
   },
   {
-    "revision": "835cbfa5beb43eeeb7f8",
+    "revision": "1139403c9d6ae498af4c",
     "url": "/sandeep-resume/static/js/main.82bc5675.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/sandeep-resume/static/js/2.8c747474.chunk.js"
   },
   {
-    "revision": "0700cce249313867f5754747e2b47014",
+    "revision": "80c2a9f9acc74a488d3c31e8dd44b203",
     "url": "/sandeep-resume/index.html"
   }
 ];
