@@ -17,12 +17,51 @@
           {
             "title": "Senior Software developer",
             "description0": "Task/Responsibilities",
-            "description":  "Involved in application testing ranging from cipher deprecation to DR test to ensure the application security and compliance with organization standards.\n",
-            "description2": "Developed and automated application modules &Reports as per client requirements.\n",
-            "description3": "Improved application performance through gap analysis that led to process Optimization and ensured a 99.99% uptime of the application.\n",
-            "description4": "Reduced turnaround time to minimum of 2 weeks by aligning IT with ITIL Process and ensured timely delivery of client deliverable and ensured SLA/SLO are met.\n",
-            "description5": "Led automation and transformation initiative as an Automation Lead. ",
+            "description":  "Led a project to optimize loan, collateral, repo, and reverse repo processes in Securities Finance Agency, centralizing data for over 10 downstream applications.\n",
+            "description2": "Implemented Stored Procedures, reducing processing times by 1 hour and centralizing collateral proration for efficiency and risk reduction.\n",
+            "description3": "Efficiently integrated Splunk and Dynatrace for 12 supported applications, strengthening monitoring capabilities.\n",
+            "description4": "Created a Django-based UI to facilitate knowledge sharing among 20 support teams, benefiting over 50 applications.\n",
             "startDate": "2017-10-16",
+            "endDate":"2021-11-12",
+            "currentJob": false,
+            "location": "Chennai, India"
+          }
+        ]
+      },
+      {
+        "companyName": "Atos",
+        "logo": "https://atos.net/content/assets/global-images/atos-group-logo-white.svg",
+        "url": "https://atos.net/en/",
+        "roles": [
+          {
+            "title": "Senior Software developer",
+            "description0": "Task/Responsibilities",
+            "description":  "Created a metadata-driven Java-based data extraction framework, reducing the time for developing new feeds by 20% across 5 project applications.\n",
+            "description2": "Coordinated deployments, achieving a 13% increase in client satisfaction and a 15% reduction in project delivery time.\n",
+            "description3": "Addressed possible critical production issues in advance, preserving a positive client reputation and upholding operational stability.\n",
+            "description4": "Led a team of 7 to create a user-friendly UI in React, Java, and Oracle, greatly improving workflow efficiency.\n",
+            "description5": "",
+            "startDate": "2021-11-17",
+            "endDate":"2022-06-30",
+            "currentJob": false,
+            "location": "Chennai, India"
+          }
+        ]
+      },
+      {
+        "companyName": "Statestreet",
+        "logo": "https://www.statestreet.com/web/Homepage/images/state-street-logo-final.svg",
+        "url": "https://www.statestreet.com/",
+        "roles": [
+          {
+            "title": "Senior Associate",
+            "description0": "Task/Responsibilities",
+            "description":  "Directed a 25-member team to transition 24 applications from Oracle Database to Oracle Exadata, improving database access performance.\n",
+            "description2": "Realized $13,000 in annual savings by overseeing a team of 20 in migrating 3 applications from Solaris to Linux servers, recognized by leadership.\n",
+            "description3": "Inducted 15+ team members through knowledge-sharing sessions and overseeing smooth onboarding.\n",
+            "description4": "Led migration of 4 legacy applications, reducing processing time by 50% and improving debugging ease while reducing run-time issues by 80%.\n",
+            "description5": "Resolved numerous critical production issues. ",
+            "startDate": "2022-07-17",
             "currentJob": true,
             "location": "Chennai, India"
           }
@@ -35,7 +74,7 @@
         "SkillSet": [
           {
             "Name": "Java",
-            "Hot": true
+            "Hot": false
           },
           {
             "Name": "Python",
@@ -138,28 +177,6 @@
         ]
       },
       {
-        "Area": "Soft Skills",
-        "SkillSet": [
-          {
-            "Name": "Liaising and Coordination",
-            "Hot": false
-          },
-          {
-            "Name": "Project Management",
-            "Hot": false
-          },
-          {
-            "Name": "Client Relationship Management",
-            "Hot": false
-          },
-          {
-            "Name": "Team Management",
-            "Hot": false
-          }
-          
-        ]
-      },
-      {
         "Area": "Schedulers",
         "SkillSet": [
           {
@@ -216,6 +233,54 @@
             "Name": "Devops",
             "Hot": true
           }
+        ]
+      },      {
+        "Area": "Soft/Misc Skills",
+        "SkillSet": [
+          {
+            "Name": "Liaising and Coordination",
+            "Hot": false
+          },
+          {
+            "Name": "Project Management",
+            "Hot": false
+          },
+          {
+            "Name": "Client Relationship Management",
+            "Hot": false
+          },
+          {
+            "Name": "Team Management",
+            "Hot": false
+          },
+          {
+            "Name": "Requirements Analysis",
+            "Hot": false
+          },
+          {
+            "Name": "Design & Architecture",
+            "Hot": false
+          },
+          {
+            "Name": "Software Development",
+            "Hot": false
+          },
+          {
+            "Name": "Data Analysis",
+            "Hot": false
+          },
+          {
+            "Name": "Strategic planning & Communication",
+            "Hot": false
+          },
+          {
+            "Name": "Client Relationship Management",
+            "Hot": false
+          }, 
+          {
+            "Name": "Automation, Troubleshooting & bug fixing",
+            "Hot": false
+          }      
         ]
       }
     ],
