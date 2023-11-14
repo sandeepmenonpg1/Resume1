@@ -49,8 +49,8 @@ class ExperiencePanel extends Component {
                                                     <li className={styles.jobDescription}>{role.description2}</li>
                                                     <li className={styles.jobDescription}>{role.description3}</li>
                                                     <li className={styles.jobDescription}>{role.description4}</li>
-                                                    <li className={styles.jobDescription}>{role.description5}</li>
                                                     </ol>
+                                                    <p className={styles.newline}></p>
                                                     <p className={styles.newline}></p>
                                                     <p className={styles.newline}></p>
                                                     <p className={styles.newline}></p>
