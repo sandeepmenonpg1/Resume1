@@ -40,7 +40,7 @@ class DetailTabPanel extends Component {
                         <Tab style={{Color: "white", backgroundColor:"black"}} label="My Education" />
                     </Tabs>
                 </AppBar>
-                <SwipeableViews animateHeight={true} className={styles.tabContainer} style={{backgroundColor:"black"}} axis={theme.direction === 'rtl' ? 'x-reverse' : 'x'} index={this.state.value} onChangeIndex={this.handleChangeIndex}>
+                <SwipeableViews animateHeight={false} className={styles.tabContainer} style={{backgroundColor:"black"}} axis={theme.direction === 'rtl' ? 'x-reverse' : 'x'} index={this.state.value} onChangeIndex={this.handleChangeIndex}>
                     <ExperiencePanel dir={theme.direction}></ExperiencePanel>
                     <SkillPanel dir={theme.direction}></SkillPanel>
                     <EducationPanel dir={theme.direction}></EducationPanel>
