@@ -1,5 +1,5 @@
 {
-  "main.css": "/sandeep-resume/static/css/main.7a71b93a.chunk.css",
+  "main.css": "/sandeep-resume/static/css/main.a636a4fd.chunk.css",
   "main.js": "/sandeep-resume/static/js/main.82bc5675.chunk.js",
   "main.js.map": "/sandeep-resume/static/js/main.82bc5675.chunk.js.map",
   "runtime~main.js": "/sandeep-resume/static/js/runtime~main.2ecbf48a.js",
@@ -8,8 +8,8 @@
   "static/js/2.8c747474.chunk.js": "/sandeep-resume/static/js/2.8c747474.chunk.js",
   "static/js/2.8c747474.chunk.js.map": "/sandeep-resume/static/js/2.8c747474.chunk.js.map",
   "index.html": "/sandeep-resume/index.html",
-  "precache-manifest.d5836cce42cf426e1a4d33e333d9aa34.js": "/sandeep-resume/precache-manifest.d5836cce42cf426e1a4d33e333d9aa34.js",
+  "precache-manifest.87bd7ce0f321b3a6fd104fdead571d62.js": "/sandeep-resume/precache-manifest.87bd7ce0f321b3a6fd104fdead571d62.js",
   "service-worker.js": "/sandeep-resume/service-worker.js",
   "static/css/2.7197fbe1.chunk.css.map": "/sandeep-resume/static/css/2.7197fbe1.chunk.css.map",
-  "static/css/main.7a71b93a.chunk.css.map": "/sandeep-resume/static/css/main.7a71b93a.chunk.css.map"
+  "static/css/main.a636a4fd.chunk.css.map": "/sandeep-resume/static/css/main.a636a4fd.chunk.css.map"
 }
